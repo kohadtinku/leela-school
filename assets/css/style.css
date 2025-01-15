@@ -338,7 +338,7 @@ body.nav-active { overflow: hidden; }
   top: 0;
   left: 0;
   width: 100%;
-  padding-block: 32px;
+  /* padding-block: 32px; */
   z-index: 4;
 }
 
@@ -996,3 +996,5 @@ marquee {
   color: #6c63ff;
   font-weight: bold;
 }
+
+
