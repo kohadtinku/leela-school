@@ -223,7 +223,8 @@ body.nav-active { overflow: hidden; }
 }
 
 :is(.headline-lg, .headline-md) .span {
-  color: var(--light-coral);
+  /* color: var(--light-coral); */
+  color: orange;
   display: inline;
 }
 
